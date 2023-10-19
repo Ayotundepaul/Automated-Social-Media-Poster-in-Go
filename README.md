@@ -55,4 +55,4 @@ This project is licensed under the MIT License.
 
 ---
 
-This Go-based implementation offers a simple command-line interface to schedule tweets. Just like the previous Python example, this serves as a basic starting point. You can expand upon this with error handling, multiple platform support, etc.
+This Go-based implementation offers a simple command-line interface to schedule tweets.
